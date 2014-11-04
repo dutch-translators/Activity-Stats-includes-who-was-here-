@@ -1,4 +1,4 @@
-Quick-Style
+Activity-Stats-includes-who-was-here
 ===========
 
 Dutch translation of the Activity Stats (includes "who was here?") extension by combuster
