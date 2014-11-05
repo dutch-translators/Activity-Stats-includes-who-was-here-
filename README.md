@@ -1,7 +1,7 @@
 Activity-Stats-includes-who-was-here
 ===========
 
-Dutch translation of the Activity Stats (includes "who was here?") extension by combuster
+Dutch translation of the Activity Stats (includes "who was here?") extension by combuster and RMcGirr83
 
 Installatie
 ===========
