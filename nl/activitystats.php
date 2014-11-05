@@ -3,6 +3,7 @@
 *
 * @package phpBB Extension - Activity Stats
 * @copyright (c) 2014 Robet Heim
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -19,7 +20,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 // for the normal sites
-	'ACTIVITY_STATS'					=> 'Actiteit Statistieken',
+	'ACTIVITY_STATS'					=> 'Activiteit Statistieken',
 	'ACTIVITY_STATS_LATEST1'			=> 'laatst op',
 	'ACTIVITY_STATS_LATEST2'			=> '',//used for parts like o'clock in the timedisplay (last at vw:xy "o'clock")
 

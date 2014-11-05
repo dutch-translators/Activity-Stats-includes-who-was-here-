@@ -3,6 +3,7 @@
 *
 * @package phpBB Extension - Activity Stats
 * @copyright (c) 2014 Robet Heim
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -41,7 +42,7 @@ $lang = array_merge($lang, array(
 	'ACTIVITY_STATS_INSTALLED'				=> 'Geïnstalleerde versie: v%s',
 
 	'ACTIVITY_STATS_TITLE'					=> 'Activity Stats',
-	'ACTIVITY_STATS_DISP_SET'				=> 'Toon instellingen',
+	'ACTIVITY_STATS_DISP_SET'				=> 'Weergave instellingen',
 	'ACTIVITY_STATS_OTHER'					=> 'Overige instellingen',
 
 	// acp form
@@ -49,7 +50,7 @@ $lang = array_merge($lang, array(
 	'ACTIVITY_STATS_DISP_NEW_TOPICS_EXP'	=> 'Toon de teller van nieuwe onderwerpen',
 	'ACTIVITY_STATS_DISP_NEW_POSTS'			=> 'Toon nieuwe berichten',
 	'ACTIVITY_STATS_DISP_NEW_POSTS_EXP'		=> 'Toon de teller van nieuwe berichten',
-	'ACTIVITY_STATS_DISP_NEW_USERS'			=> 'Toon nieuwe gebruikes',
+	'ACTIVITY_STATS_DISP_NEW_USERS'			=> 'Toon nieuwe gebruikers',
 	'ACTIVITY_STATS_DISP_NEW_USERS_EXP'		=> 'Toon de teller van nieuwe gebruikers',
 
 	'ACTIVITY_STATS_DISP_BOTS'				=> 'Toon bots',
@@ -57,13 +58,13 @@ $lang = array_merge($lang, array(
 	'ACTIVITY_STATS_DISP_GUESTS'			=> 'Toon gasten',
 	'ACTIVITY_STATS_DISP_GUESTS_EXP'		=> 'Toon gasten bij de teller?',
 	'ACTIVITY_STATS_DISP_HIDDEN'			=> 'Toon verborgen gebruikers',
-	'ACTIVITY_STATS_DISP_HIDDEN_EXP'		=> 'Verborgen gebrukers tonen in de lijst? (permissies benodigd)',
+	'ACTIVITY_STATS_DISP_HIDDEN_EXP'		=> 'Verborgen gebruikers tonen in de lijst? (permissies vereist)',
 	'ACTIVITY_STATS_DISP_TIME'				=> 'Toon tijd',
-	'ACTIVITY_STATS_DISP_TIME_EXP'			=> 'Alle gebruikers zien het of zien het niet.Er zijn geen speciale persmissies voor administrators.',
+	'ACTIVITY_STATS_DISP_TIME_EXP'			=> 'Alle gebruikers zien het of zien het niet.Er zijn geen speciale permissies voor administrators.',
 	'ACTIVITY_STATS_DISP_TIME_FORMAT'		=> 'Tijdsformaat',
 	'ACTIVITY_STATS_DISP_HOVER'				=> 'Toon bij muisovergang',
 	'ACTIVITY_STATS_DISP_IP'				=> 'Toon gebruikers-ip',
-	'ACTIVITY_STATS_DISP_IP_EXP'			=> 'Alleen voor gebruikers met administrator permissies, net zoals op viewonline.php',
+	'ACTIVITY_STATS_DISP_IP_EXP'			=> 'Alleen voor gebruikers met administrator permissies, net zoals op “viewonline.php”',
 
 	'ACTIVITY_STATS_RECORD'					=> 'Record',
 	'ACTIVITY_STATS_RECORD_EXP'				=> 'Toon en sla record op',
@@ -84,13 +85,13 @@ $lang = array_merge($lang, array(
 	'ACTIVITY_STATS_SORT_BY_5'				=> 'Gebruikers-ID aflopend',
 
 	'ACTIVITY_STATS_CACHE_TIME'				=> 'Cache tijd (seconden)',
-	'ACTIVITY_STATS_CACHE_TIME_EXP'			=> 'Tijd waarin de statistieken niet verniewd worden (verbeterd prestatie)',
+	'ACTIVITY_STATS_CACHE_TIME_EXP'			=> 'Tijd waarin de statistieken niet vernieuwd worden (verbeterd prestatie)',
 
 	'ACTIVITY_STATS_CHECK_PERMISSIONS'		=> 'Controleer permissies',
 	'ACTIVITY_STATS_CHECK_PERMISSIONS_EXP'	=> 'nee=iedereen kan de statistieken bekijken (negeer permissies instellingen); ja=gebruik ingestelde permissies (b.v. alleen tonen voor geregistreerde gebruikers: ACP->permissies->globale permissies -> groepspermissies -> geregistreerde gebruikers -> Geavanceerde permissies -> Overig -> "Kan statistieken bekijken")',
 
 	'ACTIVITY_STATS_MODE'					=> 'Toon gebruikers van ...',
-	'ACTIVITY_STATS_MODE_EXP'				=> 'Toont gebruikers van vandaag (vanaf 00:00 forum-timezone), of van de periode (kan hieronder ingesteld worden).',
+	'ACTIVITY_STATS_MODE_EXP'				=> 'Toont gebruikers van vandaag (vanaf 00:00 forumtijdzone), of van de periode (kan hieronder ingesteld worden).',
 	'ACTIVITY_STATS_MODE_TODAY'				=> 'Vandaag',
 	'ACTIVITY_STATS_MODE_PERIOD'			=> 'Periode',
 	'ACTIVITY_STATS_MODE_PERIOD_EXP'		=> 'type 0, als je de gebruikers van de laatste 24 uur wil laten zien',
@@ -98,4 +99,3 @@ $lang = array_merge($lang, array(
 	'ACTIVITY_STATS_MODE_PERIOD_EXP3'		=> 'seconden',
 
 ));
-

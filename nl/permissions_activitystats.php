@@ -3,6 +3,7 @@
 *
 * @package phpBB Extension - Activity Stats
 * @copyright (c) 2014 Robet Heim
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
@@ -39,6 +40,6 @@ if (empty($lang) || !is_array($lang))
 use robertheim\activitystats\PERMISSIONS;
 
 $lang = array_merge($lang, array(
-	'ACL_'.mb_strtoupper(PERMISSIONS::SEE_STATS)	=> 'Kan "Activity Stats" bekijken',
+	'ACL_'.mb_strtoupper(PERMISSIONS::SEE_STATS)	=> 'Kan "Activiteit Statistiek" bekijken',
 ));
 

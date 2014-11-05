@@ -3,6 +3,7 @@
 *
 * @package phpBB Extension - Activity Stats
 * @copyright (c) 2014 Robet Heim
+* Dutch translation by Dutch Translators (https://github.com/dutch-translators)
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
 *
 */
